@@ -33,7 +33,7 @@ namespace EventsDelegates
                         }
                         else
                         {
-                            EventOperations  eventOperations = new EventOperations(ref LoginCustomer);
+                            EventOperations eventOperations = new EventOperations(ref LoginCustomer);
                             eventOperations.Operations();
                             Console.WriteLine("you are Logged out");
                             Console.WriteLine("To run application, please type 'yes'  ");
@@ -53,42 +53,3 @@ namespace EventsDelegates
     }
 }
 
-
-
-// namespace EventsDelegates
-// {
-//     class Program
-//     {
-//         static void Main(string[] args)
-//         {
-            
-//             // Customer customer=  new Customer();
-//             // Vendor vendor = new Vendor();
-//             // Orders orders = new Orders();
-//             // Notification notify = new Notification();
-//             // notify.OrderEvent += customer.Notify;
-//             // notify.OrderEvent+= vendor.Notify;
-//             // char finalStatus = 'y';
-//             // while(finalStatus=='y')
-//             // {
-//             // orders.SetOrders();
-//             // List<string> ordersList = orders.ordersList;
-//             // Vendor orderToVendor;
-//             // foreach (string orderType in ordersList)
-//             // {
-//             //     foreach(String productType in vendor.vendorsDictonary.Keys)
-//             //     {
-//             //         if(orderType.Trim().Equals(productType.Trim()))
-//             //         {
-//             //             orderToVendor = vendor.vendorsDictonary[orderType.Trim()];
-//             //      //       notify.OrderProduct(new Customer("Anurag","Hyderabad"),orderToVendor);
-//             //         }
-//             //     }
-//             // }
-//             // Console.WriteLine("\nTo continue application, y/n");
-//             // finalStatus = Convert.ToChar(Console.ReadLine());
-//             // }
-            
-//         }
-//     }
-// }

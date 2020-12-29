@@ -24,7 +24,7 @@ namespace EventsDelegates
         {
             customersList = new List<Customer>();
         }
-        public Customer(String UserName,string pin,string Address)
+        public Customer(String UserName, string pin, string Address)
         {
             this.UserName = UserName;
             this.Pin = pin;
@@ -39,7 +39,7 @@ namespace EventsDelegates
             Pin = (Console.ReadLine());
             Console.Write("Address  : ");
             Address = Console.ReadLine();
-            customersList.Add(new Customer(UserName,Pin, Address));
+            customersList.Add(new Customer(UserName, Pin, Address));
             Console.WriteLine("Your Details Succesfully added ");
         }
         public void ShowCustomer()
@@ -53,10 +53,10 @@ namespace EventsDelegates
         public void Notify(object obj, EventsClass args)
         {
             Console.WriteLine("\n\n                 CUSTOMER DETAILS\n");
-            Console.WriteLine("Hey! {0}",args.customer.UserName);
-            Console.WriteLine("Order placed Time  :  {0}",DateTime.Now);
-            Console.WriteLine("Shipping Address   :  {0}",args.customer.Address);
-            Console.WriteLine("Shipping Date      :  {0}",DateTime.Now.Date.AddDays(3).Date.ToString("MM/dd/yyyy"));
+            Console.WriteLine("Hey! {0}", args.customer.UserName);
+            Console.WriteLine("Order placed Time  :  {0}", DateTime.Now);
+            Console.WriteLine("Shipping Address   :  {0}", args.customer.Address);
+            Console.WriteLine("Shipping Date      :  {0}", DateTime.Now.Date.AddDays(3).Date.ToString("MM/dd/yyyy"));
         }
     }
 }
