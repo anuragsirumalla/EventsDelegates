@@ -1,0 +1,16 @@
+D:\innRoad\EventsDelegates\src\EventsDelegates\bin\Debug\net5.0\EventsDelegates.exe
+D:\innRoad\EventsDelegates\src\EventsDelegates\bin\Debug\net5.0\EventsDelegates.deps.json
+D:\innRoad\EventsDelegates\src\EventsDelegates\bin\Debug\net5.0\EventsDelegates.runtimeconfig.json
+D:\innRoad\EventsDelegates\src\EventsDelegates\bin\Debug\net5.0\EventsDelegates.runtimeconfig.dev.json
+D:\innRoad\EventsDelegates\src\EventsDelegates\bin\Debug\net5.0\EventsDelegates.dll
+D:\innRoad\EventsDelegates\src\EventsDelegates\bin\Debug\net5.0\ref\EventsDelegates.dll
+D:\innRoad\EventsDelegates\src\EventsDelegates\bin\Debug\net5.0\EventsDelegates.pdb
+D:\innRoad\EventsDelegates\src\EventsDelegates\obj\Debug\net5.0\EventsDelegates.csprojAssemblyReference.cache
+D:\innRoad\EventsDelegates\src\EventsDelegates\obj\Debug\net5.0\EventsDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\innRoad\EventsDelegates\src\EventsDelegates\obj\Debug\net5.0\EventsDelegates.AssemblyInfoInputs.cache
+D:\innRoad\EventsDelegates\src\EventsDelegates\obj\Debug\net5.0\EventsDelegates.AssemblyInfo.cs
+D:\innRoad\EventsDelegates\src\EventsDelegates\obj\Debug\net5.0\EventsDelegates.csproj.CoreCompileInputs.cache
+D:\innRoad\EventsDelegates\src\EventsDelegates\obj\Debug\net5.0\EventsDelegates.dll
+D:\innRoad\EventsDelegates\src\EventsDelegates\obj\Debug\net5.0\ref\EventsDelegates.dll
+D:\innRoad\EventsDelegates\src\EventsDelegates\obj\Debug\net5.0\EventsDelegates.pdb
+D:\innRoad\EventsDelegates\src\EventsDelegates\obj\Debug\net5.0\EventsDelegates.genruntimeconfig.cache
