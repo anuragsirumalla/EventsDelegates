@@ -4,7 +4,7 @@ namespace EventsDelegates
 {
     public class EventsClass : EventArgs
     {
-        public Customer  customer
+        public Customer customer
         {
             get;
             set;
